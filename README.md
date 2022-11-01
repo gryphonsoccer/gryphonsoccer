@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Andrew Griffin, or @gryphonsoccer
 - 👀 I’m interested in software development focused on sustainabilty. 
-- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on sustainability focused software development.
 - 📫 Please contact me at Andrew.GriffinIV@gmail.com.
 
